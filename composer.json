@@ -1,7 +1,7 @@
 {
-    "name":        "knplabs/knp-markdown-bundle",
+    "name":        "domojonux/knp-markdown-bundle",
     "type":        "symfony-bundle",
-    "description": "Knplabs markdown bundle transforms markdown into html",
+    "description": "Knplabs markdown bundle fork for transforms markdown into html",
     "keywords":    ["markdown", "knplabs", "knp", "bundle"],
     "homepage":    "http://github.com/KnpLabs/KnpMarkdownBundle",
     "license":     "MIT",
